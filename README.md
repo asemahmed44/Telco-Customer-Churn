@@ -12,7 +12,3 @@ A Machine Learning project focused on predicting customer churn using statistica
 - **Machine Learning:** Scikit-Learn, XGBoost, LightGBM, CatBoost
 - **Optimization:** Optuna
 
-## 🚀 How to Run
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/asemahmed44/Telco-Customer-Churn.git](https://github.com/asemahmed44/Telco-Customer-Churn.git)
